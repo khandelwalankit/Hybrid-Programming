@@ -1,0 +1,57 @@
+Computation Started for matrixmult
+Executing test :1 times
+Running matrix multiplication for 1024X1024
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048
+The time used is 109 seconds.
+Running matrix multiplication for 4096X4096
+The time used is 900 seconds.
+Executing test :2 times
+Running matrix multiplication for 1024X1024
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048
+The time used is 108 seconds.
+Running matrix multiplication for 4096X4096
+The time used is 902 seconds.
+Executing test :3 times
+Running matrix multiplication for 1024X1024
+The time used is 3 seconds.
+Running matrix multiplication for 2048X2048
+The time used is 109 seconds.
+Running matrix multiplication for 4096X4096
+The time used is 905 seconds.
+Executing test :4 times
+Running matrix multiplication for 1024X1024
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048
+The time used is 106 seconds.
+Running matrix multiplication for 4096X4096
+The time used is 898 seconds.
+Executing test :5 times
+Running matrix multiplication for 1024X1024
+The time used is 3 seconds.
+Running matrix multiplication for 2048X2048
+The time used is 107 seconds.
+Running matrix multiplication for 4096X4096
+The time used is 905 seconds.
+Executing test :6 times
+Running matrix multiplication for 1024X1024
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048
+The time used is 108 seconds.
+Running matrix multiplication for 4096X4096
+The time used is 903 seconds.
+Executing test :7 times
+Running matrix multiplication for 1024X1024
+The time used is 3 seconds.
+Running matrix multiplication for 2048X2048
+The time used is 108 seconds.
+Running matrix multiplication for 4096X4096
+The time used is 898 seconds.
+Executing test :8 times
+Running matrix multiplication for 1024X1024
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048
+The time used is 104 seconds.
+Running matrix multiplication for 4096X4096
+The time used is 900 seconds.
