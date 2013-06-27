@@ -1,342 +1,76 @@
 Computation Started for matrixmult
 Executing test :1 times
 Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Time Taken by program: 11.000000 seconds 
+Time Taken by program: 8.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Time Taken by program: 10.000000 seconds 
+Time Taken by program: 7.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Time Taken by program: 9.000000 seconds 
+Time Taken by program: 6.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 7.000000 seconds 
+Time Taken by program: 6.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 32X32
-Time Taken by program: 9.000000 seconds 
+Time Taken by program: 6.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 7.000000 seconds 
+Time Taken by program: 12.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 156.000000 seconds 
+Time Taken by program: 128.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Time Taken by program: 133.000000 seconds 
+Time Taken by program: 108.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Time Taken by program: 131.000000 seconds 
+Time Taken by program: 106.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Time Taken by program: 134.000000 seconds 
+Time Taken by program: 104.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Time Taken by program: 139.000000 seconds 
+Time Taken by program: 110.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Time Taken by program: 321.000000 seconds 
+Time Taken by program: 671.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Time Taken by program: 1214.000000 seconds 
+Time Taken by program: 964.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Time Taken by program: 1194.000000 seconds 
+Time Taken by program: 959.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Time Taken by program: 1188.000000 seconds 
+Time Taken by program: 952.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Time Taken by program: 1224.000000 seconds 
+Time Taken by program: 947.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Time Taken by program: 1337.000000 seconds 
+Time Taken by program: 1363.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Time Taken by program: 3602.000000 seconds 
+Time Taken by program: 8071.000000 seconds 
 Executing test :2 times
 Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Time Taken by program: 19.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Time Taken by program: 13.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Time Taken by program: 12.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 12.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 32X32
-Time Taken by program: 11.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 15.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 146.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Time Taken by program: 130.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Time Taken by program: 129.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Time Taken by program: 131.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Time Taken by program: 138.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Time Taken by program: 297.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Time Taken by program: 1196.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Time Taken by program: 1194.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Time Taken by program: 1182.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Time Taken by program: 1220.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Time Taken by program: 1381.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Time Taken by program: 2940.000000 seconds 
-Executing test :3 times
-Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Time Taken by program: 10.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Time Taken by program: 7.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Time Taken by program: 6.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 6.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 32X32
-Time Taken by program: 6.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 10.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 151.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Time Taken by program: 130.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Time Taken by program: 129.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Time Taken by program: 132.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Time Taken by program: 136.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Time Taken by program: 310.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Time Taken by program: 1208.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Time Taken by program: 1203.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Time Taken by program: 1188.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Time Taken by program: 1226.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Time Taken by program: 1345.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Time Taken by program: 2985.000000 seconds 
-Executing test :4 times
-Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Time Taken by program: 11.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
 Time Taken by program: 8.000000 seconds 
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 7.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 128X128
 Time Taken by program: 6.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 7.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 32X32
 Time Taken by program: 5.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 153.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Time Taken by program: 132.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Time Taken by program: 131.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Time Taken by program: 134.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Time Taken by program: 137.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Time Taken by program: 296.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Time Taken by program: 1209.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Time Taken by program: 1208.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Time Taken by program: 1200.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Time Taken by program: 1223.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Time Taken by program: 1340.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Time Taken by program: 2607.000000 seconds 
-Executing test :5 times
-Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 7.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 32X32
-Time Taken by program: 7.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 6.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 149.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Time Taken by program: 133.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Time Taken by program: 130.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Time Taken by program: 135.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Time Taken by program: 138.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Time Taken by program: 337.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Time Taken by program: 1220.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Time Taken by program: 1195.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Time Taken by program: 1193.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Time Taken by program: 1227.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Time Taken by program: 1359.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Time Taken by program: 2932.000000 seconds 
-Executing test :6 times
-Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Time Taken by program: 9.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 6.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 32X32
 Time Taken by program: 6.000000 seconds 
 Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 150.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Time Taken by program: 133.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Time Taken by program: 130.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Time Taken by program: 135.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Time Taken by program: 138.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Time Taken by program: 316.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Time Taken by program: 1204.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Time Taken by program: 1192.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Time Taken by program: 1189.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Time Taken by program: 1228.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Time Taken by program: 1343.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Time Taken by program: 3497.000000 seconds 
-Executing test :7 times
-Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Time Taken by program: 10.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 6.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 32X32
-Time Taken by program: 7.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 150.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Time Taken by program: 131.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Time Taken by program: 131.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Time Taken by program: 134.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Time Taken by program: 140.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Time Taken by program: 312.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Time Taken by program: 1214.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Time Taken by program: 1195.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Time Taken by program: 1189.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Time Taken by program: 1225.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Time Taken by program: 1342.000000 seconds 
-Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Time Taken by program: 3162.000000 seconds 
-Executing test :8 times
-Running matrix multiplication for 1024X1024 and dividing in block of 512X512
 Time Taken by program: 11.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Time Taken by program: 6.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 7.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 32X32
-Time Taken by program: 6.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 9.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 152.000000 seconds 
+Time Taken by program: 130.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Time Taken by program: 132.000000 seconds 
+Time Taken by program: 107.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Time Taken by program: 129.000000 seconds 
+Time Taken by program: 107.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Time Taken by program: 134.000000 seconds 
+Time Taken by program: 104.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Time Taken by program: 140.000000 seconds 
+Time Taken by program: 108.000000 seconds 
 Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Time Taken by program: 310.000000 seconds 
+Time Taken by program: 774.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Time Taken by program: 1213.000000 seconds 
+Time Taken by program: 965.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Time Taken by program: 1194.000000 seconds 
+Time Taken by program: 960.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Time Taken by program: 1192.000000 seconds 
+Time Taken by program: 951.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Time Taken by program: 1229.000000 seconds 
+Time Taken by program: 945.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Time Taken by program: 1339.000000 seconds 
+Time Taken by program: 1390.000000 seconds 
 Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Time Taken by program: 2888.000000 seconds 
-Executing test :9 times
-Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Time Taken by program: 10.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Time Taken by program: 6.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 32X32
-Time Taken by program: 7.000000 seconds 
-Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Time Taken by program: 8.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Time Taken by program: 152.000000 seconds 
-Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Running matrix multiplication for 4096X4096 and dividing in block of 16X16
-Executing test :10 times
-Running matrix multiplication for 1024X1024 and dividing in block of 512X512
-Running matrix multiplication for 1024X1024 and dividing in block of 256X256
-Running matrix multiplication for 1024X1024 and dividing in block of 128X128
-Running matrix multiplication for 1024X1024 and dividing in block of 64X64
-Running matrix multiplication for 1024X1024 and dividing in block of 32X32
-Running matrix multiplication for 1024X1024 and dividing in block of 16X16
-Running matrix multiplication for 2048X2048 and dividing in block of 512X512
-Running matrix multiplication for 2048X2048 and dividing in block of 256X256
-Running matrix multiplication for 2048X2048 and dividing in block of 128X128
-Running matrix multiplication for 2048X2048 and dividing in block of 64X64
-Running matrix multiplication for 2048X2048 and dividing in block of 32X32
-Running matrix multiplication for 2048X2048 and dividing in block of 16X16
-Running matrix multiplication for 4096X4096 and dividing in block of 512X512
-Running matrix multiplication for 4096X4096 and dividing in block of 256X256
-Running matrix multiplication for 4096X4096 and dividing in block of 128X128
-Running matrix multiplication for 4096X4096 and dividing in block of 64X64
-Running matrix multiplication for 4096X4096 and dividing in block of 32X32
-Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+Time Taken by program: 8463.000000 seconds 
+Computation Completed for matrixmult

@@ -76,10 +76,10 @@ void print_matrix()
      {
       printf("%f  ",C[i*ydim+j]);
       
-    }
+     }
     printf("\n");
-  }
-} 
+  } 
+}  
 
 void print_initmatrix()
 {  
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
   initialize_matrix();
   //print_initmatrix(); 
   multiply_matrix();
-  //print_matrix();
+  print_matrix();
   free(A);
   free(B);
   free(C);
