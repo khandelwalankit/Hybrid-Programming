@@ -1,0 +1,298 @@
+Computation Started for Jacobian Iteration
+Executing test :1 times
+Running jacobian iteration for 1024X1024 and dividing in block of 512X512
+The time used is 15 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 256X256
+The time used is 7 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 128X128
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 64X64
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 32X32
+The time used is 9 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 16X16
+The time used is 12 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 512X512
+The time used is 60 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 256X256
+The time used is 62 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 128X128
+The time used is 63 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 64X64
+The time used is 66 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 32X32
+The time used is 74 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 16X16
+The time used is 92 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 512X512
+The time used is 500 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 256X256
+The time used is 507 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 128X128
+The time used is 517 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 64X64
+The time used is 544 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 32X32
+The time used is 615 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 16X16
+The time used is 762 seconds.
+Executing test :2 times
+Running jacobian iteration for 1024X1024 and dividing in block of 512X512
+The time used is 15 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 256X256
+The time used is 7 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 128X128
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 64X64
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 32X32
+The time used is 9 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 16X16
+The time used is 12 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 512X512
+The time used is 60 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 256X256
+The time used is 62 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 128X128
+The time used is 63 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 64X64
+The time used is 66 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 32X32
+The time used is 73 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 16X16
+The time used is 92 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 512X512
+The time used is 499 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 256X256
+The time used is 510 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 128X128
+The time used is 517 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 64X64
+The time used is 548 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 32X32
+The time used is 615 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 16X16
+The time used is 761 seconds.
+Executing test :3 times
+Running jacobian iteration for 1024X1024 and dividing in block of 512X512
+The time used is 15 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 256X256
+The time used is 7 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 128X128
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 64X64
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 32X32
+The time used is 10 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 16X16
+The time used is 11 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 512X512
+The time used is 61 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 256X256
+The time used is 61 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 128X128
+The time used is 64 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 64X64
+The time used is 66 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 32X32
+The time used is 74 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 16X16
+The time used is 92 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 512X512
+The time used is 501 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 256X256
+The time used is 508 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 128X128
+The time used is 516 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 64X64
+The time used is 543 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 32X32
+The time used is 614 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 16X16
+The time used is 762 seconds.
+Executing test :4 times
+Running jacobian iteration for 1024X1024 and dividing in block of 512X512
+The time used is 15 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 256X256
+The time used is 9 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 128X128
+The time used is 7 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 64X64
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 32X32
+The time used is 10 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 16X16
+The time used is 11 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 512X512
+The time used is 61 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 256X256
+The time used is 61 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 128X128
+The time used is 63 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 64X64
+The time used is 66 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 32X32
+The time used is 74 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 16X16
+The time used is 92 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 512X512
+The time used is 499 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 256X256
+The time used is 508 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 128X128
+The time used is 515 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 64X64
+The time used is 543 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 32X32
+The time used is 615 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 16X16
+The time used is 753 seconds.
+Executing test :5 times
+Running jacobian iteration for 1024X1024 and dividing in block of 512X512
+The time used is 15 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 256X256
+The time used is 7 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 128X128
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 64X64
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 32X32
+The time used is 9 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 16X16
+The time used is 12 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 512X512
+The time used is 60 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 256X256
+The time used is 62 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 128X128
+The time used is 63 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 64X64
+The time used is 66 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 32X32
+The time used is 74 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 16X16
+The time used is 92 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 512X512
+The time used is 500 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 256X256
+The time used is 509 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 128X128
+The time used is 516 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 64X64
+The time used is 543 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 32X32
+The time used is 615 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 16X16
+The time used is 760 seconds.
+Executing test :6 times
+Running jacobian iteration for 1024X1024 and dividing in block of 512X512
+The time used is 15 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 256X256
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 128X128
+The time used is 7 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 64X64
+The time used is 9 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 32X32
+The time used is 9 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 16X16
+The time used is 12 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 512X512
+The time used is 60 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 256X256
+The time used is 61 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 128X128
+The time used is 64 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 64X64
+The time used is 66 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 32X32
+The time used is 73 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 16X16
+The time used is 92 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 512X512
+The time used is 500 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 256X256
+The time used is 507 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 128X128
+The time used is 516 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 64X64
+The time used is 542 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 32X32
+The time used is 615 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 16X16
+The time used is 759 seconds.
+Executing test :7 times
+Running jacobian iteration for 1024X1024 and dividing in block of 512X512
+The time used is 14 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 256X256
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 128X128
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 64X64
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 32X32
+The time used is 9 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 16X16
+The time used is 12 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 512X512
+The time used is 60 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 256X256
+The time used is 62 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 128X128
+The time used is 63 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 64X64
+The time used is 66 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 32X32
+The time used is 73 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 16X16
+The time used is 93 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 512X512
+The time used is 499 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 256X256
+The time used is 508 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 128X128
+The time used is 515 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 64X64
+The time used is 543 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 32X32
+The time used is 614 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 16X16
+The time used is 759 seconds.
+Executing test :8 times
+Running jacobian iteration for 1024X1024 and dividing in block of 512X512
+The time used is 14 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 256X256
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 128X128
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 64X64
+The time used is 8 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 32X32
+The time used is 9 seconds.
+Running jacobian iteration for 1024X1024 and dividing in block of 16X16
+The time used is 12 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 512X512
+The time used is 60 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 256X256
+The time used is 62 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 128X128
+The time used is 63 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 64X64
+The time used is 66 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 32X32
+The time used is 74 seconds.
+Running jacobian iteration for 2048X2048 and dividing in block of 16X16
+The time used is 92 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 512X512
+The time used is 499 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 256X256
+The time used is 507 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 128X128
+The time used is 516 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 64X64
+The time used is 543 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 32X32
+The time used is 613 seconds.
+Running jacobian iteration for 4096X4096 and dividing in block of 16X16
+The time used is 759 seconds.
+Computation Completed for jacobian

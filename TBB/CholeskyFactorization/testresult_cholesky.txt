@@ -1,0 +1,298 @@
+Computation Started for cholesky
+Executing test :1 times
+Running cholesky factorization for 1024X1024 and dividing in block of 512X512
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 256X256
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 128X128
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 64X64
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 32X32
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 16X16
+The time used is 1 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 512X512
+The time used is 3 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 256X256
+The time used is 4 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 128X128
+The time used is 5 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 64X64
+The time used is 7 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 32X32
+The time used is 13 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 16X16
+The time used is 26 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 512X512
+The time used is 38 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 256X256
+The time used is 70 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 128X128
+The time used is 107 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 64X64
+The time used is 203 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 32X32
+The time used is 396 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 16X16
+The time used is 783 seconds.
+Executing test :2 times
+Running cholesky factorization for 1024X1024 and dividing in block of 512X512
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 256X256
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 128X128
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 64X64
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 32X32
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 16X16
+The time used is 1 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 512X512
+The time used is 3 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 256X256
+The time used is 4 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 128X128
+The time used is 5 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 64X64
+The time used is 8 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 32X32
+The time used is 14 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 16X16
+The time used is 25 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 512X512
+The time used is 44 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 256X256
+The time used is 64 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 128X128
+The time used is 109 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 64X64
+The time used is 202 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 32X32
+The time used is 395 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 16X16
+The time used is 782 seconds.
+Executing test :3 times
+Running cholesky factorization for 1024X1024 and dividing in block of 512X512
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 256X256
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 128X128
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 64X64
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 32X32
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 16X16
+The time used is 1 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 512X512
+The time used is 4 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 256X256
+The time used is 3 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 128X128
+The time used is 5 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 64X64
+The time used is 8 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 32X32
+The time used is 13 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 16X16
+The time used is 26 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 512X512
+The time used is 42 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 256X256
+The time used is 60 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 128X128
+The time used is 104 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 64X64
+The time used is 201 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 32X32
+The time used is 395 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 16X16
+The time used is 783 seconds.
+Executing test :4 times
+Running cholesky factorization for 1024X1024 and dividing in block of 512X512
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 256X256
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 128X128
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 64X64
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 32X32
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 16X16
+The time used is 1 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 512X512
+The time used is 3 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 256X256
+The time used is 4 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 128X128
+The time used is 6 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 64X64
+The time used is 7 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 32X32
+The time used is 13 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 16X16
+The time used is 26 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 512X512
+The time used is 43 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 256X256
+The time used is 62 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 128X128
+The time used is 107 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 64X64
+The time used is 202 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 32X32
+The time used is 394 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 16X16
+The time used is 781 seconds.
+Executing test :5 times
+Running cholesky factorization for 1024X1024 and dividing in block of 512X512
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 256X256
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 128X128
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 64X64
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 32X32
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 16X16
+The time used is 1 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 512X512
+The time used is 3 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 256X256
+The time used is 4 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 128X128
+The time used is 5 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 64X64
+The time used is 8 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 32X32
+The time used is 13 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 16X16
+The time used is 25 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 512X512
+The time used is 45 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 256X256
+The time used is 62 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 128X128
+The time used is 113 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 64X64
+The time used is 206 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 32X32
+The time used is 397 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 16X16
+The time used is 789 seconds.
+Executing test :6 times
+Running cholesky factorization for 1024X1024 and dividing in block of 512X512
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 256X256
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 128X128
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 64X64
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 32X32
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 16X16
+The time used is 1 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 512X512
+The time used is 3 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 256X256
+The time used is 4 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 128X128
+The time used is 5 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 64X64
+The time used is 9 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 32X32
+The time used is 13 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 16X16
+The time used is 26 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 512X512
+The time used is 38 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 256X256
+The time used is 62 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 128X128
+The time used is 110 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 64X64
+The time used is 210 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 32X32
+The time used is 413 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 16X16
+The time used is 815 seconds.
+Executing test :7 times
+Running cholesky factorization for 1024X1024 and dividing in block of 512X512
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 256X256
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 128X128
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 64X64
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 32X32
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 16X16
+The time used is 1 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 512X512
+The time used is 3 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 256X256
+The time used is 5 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 128X128
+The time used is 5 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 64X64
+The time used is 8 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 32X32
+The time used is 15 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 16X16
+The time used is 27 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 512X512
+The time used is 48 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 256X256
+The time used is 66 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 128X128
+The time used is 112 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 64X64
+The time used is 218 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 32X32
+The time used is 426 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 16X16
+The time used is 817 seconds.
+Executing test :8 times
+Running cholesky factorization for 1024X1024 and dividing in block of 512X512
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 256X256
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 128X128
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 64X64
+The time used is 1 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 32X32
+The time used is 0 seconds.
+Running cholesky factorization for 1024X1024 and dividing in block of 16X16
+The time used is 1 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 512X512
+The time used is 4 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 256X256
+The time used is 4 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 128X128
+The time used is 5 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 64X64
+The time used is 7 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 32X32
+The time used is 13 seconds.
+Running cholesky factorization for 2048X2048 and dividing in block of 16X16
+The time used is 26 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 512X512
+The time used is 42 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 256X256
+The time used is 63 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 128X128
+The time used is 107 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 64X64
+The time used is 204 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 32X32
+The time used is 393 seconds.
+Running cholesky factorization for 4096X4096 and dividing in block of 16X16
+The time used is 771 seconds.
+Computation Completed for cholesky

@@ -1,0 +1,298 @@
+Computation Started for matrixmult
+Executing test :1 times
+Running matrix multiplication for 1024X1024 and dividing in block of 512X512
+The time used is 8 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 128X128
+The time used is 5 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 64X64
+The time used is 5 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 32X32
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 16X16
+The time used is 5 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 512X512
+The time used is 108 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 256X256
+The time used is 113 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 128X128
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 64X64
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 32X32
+The time used is 106 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 16X16
+The time used is 113 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 512X512
+The time used is 894 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 256X256
+The time used is 918 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 128X128
+The time used is 940 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 64X64
+The time used is 936 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 32X32
+The time used is 881 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+The time used is 933 seconds.
+Executing test :2 times
+Running matrix multiplication for 1024X1024 and dividing in block of 512X512
+The time used is 6 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 128X128
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 64X64
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 32X32
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 16X16
+The time used is 3 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 512X512
+The time used is 107 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 256X256
+The time used is 113 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 128X128
+The time used is 115 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 64X64
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 32X32
+The time used is 106 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 16X16
+The time used is 113 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 512X512
+The time used is 887 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 256X256
+The time used is 915 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 128X128
+The time used is 932 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 64X64
+The time used is 941 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 32X32
+The time used is 882 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+The time used is 934 seconds.
+Executing test :3 times
+Running matrix multiplication for 1024X1024 and dividing in block of 512X512
+The time used is 6 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 128X128
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 64X64
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 32X32
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 16X16
+The time used is 3 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 512X512
+The time used is 107 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 256X256
+The time used is 112 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 128X128
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 64X64
+The time used is 113 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 32X32
+The time used is 107 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 16X16
+The time used is 112 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 512X512
+The time used is 884 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 256X256
+The time used is 922 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 128X128
+The time used is 937 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 64X64
+The time used is 937 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 32X32
+The time used is 882 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+The time used is 933 seconds.
+Executing test :4 times
+Running matrix multiplication for 1024X1024 and dividing in block of 512X512
+The time used is 6 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 128X128
+The time used is 5 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 64X64
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 32X32
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 16X16
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 512X512
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 256X256
+The time used is 112 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 128X128
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 64X64
+The time used is 115 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 32X32
+The time used is 106 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 16X16
+The time used is 113 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 512X512
+The time used is 905 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 256X256
+The time used is 924 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 128X128
+The time used is 937 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 64X64
+The time used is 934 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 32X32
+The time used is 882 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+The time used is 932 seconds.
+Executing test :5 times
+Running matrix multiplication for 1024X1024 and dividing in block of 512X512
+The time used is 7 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 128X128
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 64X64
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 32X32
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 16X16
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 512X512
+The time used is 110 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 256X256
+The time used is 113 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 128X128
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 64X64
+The time used is 113 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 32X32
+The time used is 106 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 16X16
+The time used is 113 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 512X512
+The time used is 899 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 256X256
+The time used is 918 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 128X128
+The time used is 936 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 64X64
+The time used is 934 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 32X32
+The time used is 881 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+The time used is 933 seconds.
+Executing test :6 times
+Running matrix multiplication for 1024X1024 and dividing in block of 512X512
+The time used is 6 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 128X128
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 64X64
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 32X32
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 16X16
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 512X512
+The time used is 109 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 256X256
+The time used is 112 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 128X128
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 64X64
+The time used is 115 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 32X32
+The time used is 106 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 16X16
+The time used is 113 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 512X512
+The time used is 877 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 256X256
+The time used is 912 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 128X128
+The time used is 936 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 64X64
+The time used is 942 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 32X32
+The time used is 882 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+The time used is 934 seconds.
+Executing test :7 times
+Running matrix multiplication for 1024X1024 and dividing in block of 512X512
+The time used is 5 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 128X128
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 64X64
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 32X32
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 16X16
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 512X512
+The time used is 109 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 256X256
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 128X128
+The time used is 113 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 64X64
+The time used is 114 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 32X32
+The time used is 106 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 16X16
+The time used is 113 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 512X512
+The time used is 895 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 256X256
+The time used is 920 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 128X128
+The time used is 937 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 64X64
+The time used is 939 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 32X32
+The time used is 882 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+The time used is 932 seconds.
+Executing test :8 times
+Running matrix multiplication for 1024X1024 and dividing in block of 512X512
+The time used is 6 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 256X256
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 128X128
+The time used is 3 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 64X64
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 32X32
+The time used is 4 seconds.
+Running matrix multiplication for 1024X1024 and dividing in block of 16X16
+The time used is 4 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 512X512
+The time used is 117 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 256X256
+The time used is 115 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 128X128
+The time used is 113 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 64X64
+The time used is 115 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 32X32
+The time used is 106 seconds.
+Running matrix multiplication for 2048X2048 and dividing in block of 16X16
+The time used is 113 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 512X512
+The time used is 895 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 256X256
+The time used is 924 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 128X128
+The time used is 936 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 64X64
+The time used is 936 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 32X32
+The time used is 881 seconds.
+Running matrix multiplication for 4096X4096 and dividing in block of 16X16
+The time used is 934 seconds.
+Computation Completed for matrixmult

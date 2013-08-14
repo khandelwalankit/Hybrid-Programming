@@ -1,0 +1,290 @@
+Computation Started for cholesky_block
+Executing test :1 times
+Running cholesky_block factorization for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 1.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 5.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 4.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 68.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 16X16
+Time Taken by program: 34.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 29.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 1096.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 32X32
+Time Taken by program: 128.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 16X16
+Executing test :2 times
+Running cholesky_block factorization for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 4.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 1.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 4.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 18.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 16X16
+Time Taken by program: 34.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 28.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 1022.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 32X32
+Time Taken by program: 3482.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 16X16
+Executing test :3 times
+Running cholesky_block factorization for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 5.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 5.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 16X16
+Time Taken by program: 35.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 28.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 561.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 32X32
+Time Taken by program: 54.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 16X16
+Executing test :4 times
+Running cholesky_block factorization for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 4.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 1.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 5.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 13.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 16X16
+Time Taken by program: 34.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 30.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 749.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 32X32
+Time Taken by program: 53.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 16X16
+Executing test :5 times
+Running cholesky_block factorization for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 4.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 1.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 5.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 15.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 16X16
+Time Taken by program: 34.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 26.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 960.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 32X32
+Time Taken by program: 36.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 16X16
+Executing test :6 times
+Running cholesky_block factorization for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 5.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 58.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 16X16
+Time Taken by program: 35.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 20.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 517.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 32X32
+Time Taken by program: 37.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 16X16
+Executing test :7 times
+Running cholesky_block factorization for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 4.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 6.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 16X16
+Time Taken by program: 34.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 29.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 751.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 32X32
+Time Taken by program: 37.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 16X16
+Executing test :8 times
+Running cholesky_block factorization for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 4.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 1.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 5.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 2.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 3.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 6.000000 seconds 
+Running cholesky_block factorization for 2048X2048 and dividing in block of 16X16
+Time Taken by program: 34.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 26.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 7.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 8.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 1520.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 32X32
+Time Taken by program: 43.000000 seconds 
+Running cholesky_block factorization for 4096X4096 and dividing in block of 16X16
+Computation Completed for cholesky_block

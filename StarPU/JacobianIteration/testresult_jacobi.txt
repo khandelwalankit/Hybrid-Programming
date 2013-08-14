@@ -1,0 +1,250 @@
+Computation Started for Jacobi
+Executing test :1 times
+Running Jacobi Iteration for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 12.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 19.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 82.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 383.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 60.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 52.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 63.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 141.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 816.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 382.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 387.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 544.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 4866.000000 seconds 
+Executing test :2 times
+Running Jacobi Iteration for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 12.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 10.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 19.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 81.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 420.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 60.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 52.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 63.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 149.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 771.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 381.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 388.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 545.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 6285.000000 seconds 
+Executing test :3 times
+Running Jacobi Iteration for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 12.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 18.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 82.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 381.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 60.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 53.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 64.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 147.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 708.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 381.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 387.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 545.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 5247.000000 seconds 
+Executing test :4 times
+Running Jacobi Iteration for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 12.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 10.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 10.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 19.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 80.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 412.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 60.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 52.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 63.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 148.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 779.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 382.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 387.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 528.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 6805.000000 seconds 
+Executing test :5 times
+Running Jacobi Iteration for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 12.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 19.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 81.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 424.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 61.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 53.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 64.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 150.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 791.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 382.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 388.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 545.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 6270.000000 seconds 
+Executing test :6 times
+Running Jacobi Iteration for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 13.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 10.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 19.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 82.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 408.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 60.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 52.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 63.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 143.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 757.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 382.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 388.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 545.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 6375.000000 seconds 
+Executing test :7 times
+Running Jacobi Iteration for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 12.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 19.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 82.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 404.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 60.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 52.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 63.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 146.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 745.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 382.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 388.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 547.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 6898.000000 seconds 
+Executing test :8 times
+Running Jacobi Iteration for 1024X1024 and dividing in block of 512X512
+Time Taken by program: 12.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 256X256
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 128X128
+Time Taken by program: 9.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 64X64
+Time Taken by program: 18.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 32X32
+Time Taken by program: 76.000000 seconds 
+Running Jacobi Iteration for 1024X1024 and dividing in block of 16X16
+Time Taken by program: 429.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 512X512
+Time Taken by program: 60.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 256X256
+Time Taken by program: 52.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 128X128
+Time Taken by program: 64.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 64X64
+Time Taken by program: 146.000000 seconds 
+Running Jacobi Iteration for 2048X2048 and dividing in block of 32X32
+Time Taken by program: 753.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 512X512
+Time Taken by program: 382.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 256X256
+Time Taken by program: 387.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 128X128
+Time Taken by program: 543.000000 seconds 
+Running Jacobi Iteration for 4096X4096 and dividing in block of 64X64
+Time Taken by program: 6373.000000 seconds 
+Computation Completed for jacobi_fd
